@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "BrMXqQV1vqYfxwPdNkbIUt7y4FN/dK8c8aoNydgubDOXNtlgK4/ogpU7WADUjF6JzKMtwSKvrcotzIfTCYZhNw==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\modular-monolith\\src\\Shared\\Shared.Abstractions\\Shared.Abstractions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\muham\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\muham\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\muham\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\muham\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

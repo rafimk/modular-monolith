@@ -1,0 +1,15 @@
+C:\Projects\modular-monolith\src\Shared\Shared.Infrastructure\bin\Debug\net6.0\Shared.Infrastructure.deps.json
+C:\Projects\modular-monolith\src\Shared\Shared.Infrastructure\bin\Debug\net6.0\Shared.Infrastructure.dll
+C:\Projects\modular-monolith\src\Shared\Shared.Infrastructure\bin\Debug\net6.0\Shared.Infrastructure.pdb
+C:\Projects\modular-monolith\src\Shared\Shared.Infrastructure\bin\Debug\net6.0\Shared.Abstractions.dll
+C:\Projects\modular-monolith\src\Shared\Shared.Infrastructure\bin\Debug\net6.0\Shared.Abstractions.pdb
+C:\Projects\modular-monolith\src\Shared\Shared.Infrastructure\obj\Debug\net6.0\Shared.Infrastructure.csproj.AssemblyReference.cache
+C:\Projects\modular-monolith\src\Shared\Shared.Infrastructure\obj\Debug\net6.0\Shared.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\modular-monolith\src\Shared\Shared.Infrastructure\obj\Debug\net6.0\Shared.Infrastructure.AssemblyInfoInputs.cache
+C:\Projects\modular-monolith\src\Shared\Shared.Infrastructure\obj\Debug\net6.0\Shared.Infrastructure.AssemblyInfo.cs
+C:\Projects\modular-monolith\src\Shared\Shared.Infrastructure\obj\Debug\net6.0\Shared.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Projects\modular-monolith\src\Shared\Shared.Infrastructure\obj\Debug\net6.0\Shared.Infrastructure.csproj.CopyComplete
+C:\Projects\modular-monolith\src\Shared\Shared.Infrastructure\obj\Debug\net6.0\Shared.Infrastructure.dll
+C:\Projects\modular-monolith\src\Shared\Shared.Infrastructure\obj\Debug\net6.0\refint\Shared.Infrastructure.dll
+C:\Projects\modular-monolith\src\Shared\Shared.Infrastructure\obj\Debug\net6.0\Shared.Infrastructure.pdb
+C:\Projects\modular-monolith\src\Shared\Shared.Infrastructure\obj\Debug\net6.0\ref\Shared.Infrastructure.dll

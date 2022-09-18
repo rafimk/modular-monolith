@@ -1,0 +1,12 @@
+C:\Projects\modular-monolith\src\Shared\Shared.Abstractions\bin\Debug\net6.0\Shared.Abstractions.deps.json
+C:\Projects\modular-monolith\src\Shared\Shared.Abstractions\bin\Debug\net6.0\Shared.Abstractions.dll
+C:\Projects\modular-monolith\src\Shared\Shared.Abstractions\bin\Debug\net6.0\Shared.Abstractions.pdb
+C:\Projects\modular-monolith\src\Shared\Shared.Abstractions\obj\Debug\net6.0\Shared.Abstractions.csproj.AssemblyReference.cache
+C:\Projects\modular-monolith\src\Shared\Shared.Abstractions\obj\Debug\net6.0\Shared.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\modular-monolith\src\Shared\Shared.Abstractions\obj\Debug\net6.0\Shared.Abstractions.AssemblyInfoInputs.cache
+C:\Projects\modular-monolith\src\Shared\Shared.Abstractions\obj\Debug\net6.0\Shared.Abstractions.AssemblyInfo.cs
+C:\Projects\modular-monolith\src\Shared\Shared.Abstractions\obj\Debug\net6.0\Shared.Abstractions.csproj.CoreCompileInputs.cache
+C:\Projects\modular-monolith\src\Shared\Shared.Abstractions\obj\Debug\net6.0\Shared.Abstractions.dll
+C:\Projects\modular-monolith\src\Shared\Shared.Abstractions\obj\Debug\net6.0\refint\Shared.Abstractions.dll
+C:\Projects\modular-monolith\src\Shared\Shared.Abstractions\obj\Debug\net6.0\Shared.Abstractions.pdb
+C:\Projects\modular-monolith\src\Shared\Shared.Abstractions\obj\Debug\net6.0\ref\Shared.Abstractions.dll
